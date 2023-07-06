@@ -1,4 +1,7 @@
-# ARIMA-LSTM-Stock-Price-Correlation-Coefficient-Prediction
+# Stock-Price-Correlation-Coefficient-Prediction
+
+A hybrid deep learning model combining  ARIMA and LSTM model that offers valuable market insights for informed decision-making and risk mitigation.
+
 When constructing and selecting a portfolio for investment, evaluation of its expected returns and risks is considered the bottom line. Minimizing risks and maximizing expected returns are objectives of Portfolio Optimization. In Modern Portfolio Theory correlation is used to include diversified assets that can help reduce a portfolio’s overall risk and hence optimize it. Stock price time series data encompasses both linear and non-linear tendencies. The ARIMA model being an ideal approach for tackling linear time series data and Recurrent Neural Networks being capable of understanding temporal dependencies and non-linearity well, we aim to develop a hybrid model (combining ARIMA and RNNs) for predicting the stock price correlation coefficient of two individual stocks.
 
 ## Problem Statement 
